@@ -1,0 +1,1 @@
+Ultra simple library implementing ring buffer. Written to use inside AVR, but should run on anything.
